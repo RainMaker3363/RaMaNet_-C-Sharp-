@@ -5,7 +5,7 @@ using System.Text;
 
 namespace GameServer_Module
 {
-    class CPacketBufferManager
+    public class CPacketBufferManager
     {
         static object cs_buffer = new object();
         static Stack<CPacket> pool;

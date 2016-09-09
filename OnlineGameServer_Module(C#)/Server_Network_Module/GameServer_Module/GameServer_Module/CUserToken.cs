@@ -6,7 +6,7 @@ using System.Net.Sockets;
 
 namespace GameServer_Module
 {
-    class CUserToken
+    public class CUserToken
     {
         public Socket socket { get; set; }
 

@@ -8,7 +8,7 @@ using System.Net.Sockets;
 
 namespace GameServer_Module
 {
-    class CNetworkService
+    public class CNetworkService
     {
         int connected_count;
         CListener client_listener;

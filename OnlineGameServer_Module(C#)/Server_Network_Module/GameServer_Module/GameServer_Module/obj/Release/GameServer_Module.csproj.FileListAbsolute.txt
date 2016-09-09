@@ -1,0 +1,4 @@
+C:\GitHub\RaMaNet_-C-Sharp-\OnlineGameServer_Module(C#)\Server_Network_Module\GameServer_Module\GameServer_Module\bin\Release\GameServer_Module.dll
+C:\GitHub\RaMaNet_-C-Sharp-\OnlineGameServer_Module(C#)\Server_Network_Module\GameServer_Module\GameServer_Module\bin\Release\GameServer_Module.pdb
+C:\GitHub\RaMaNet_-C-Sharp-\OnlineGameServer_Module(C#)\Server_Network_Module\GameServer_Module\GameServer_Module\obj\Release\GameServer_Module.dll
+C:\GitHub\RaMaNet_-C-Sharp-\OnlineGameServer_Module(C#)\Server_Network_Module\GameServer_Module\GameServer_Module\obj\Release\GameServer_Module.pdb

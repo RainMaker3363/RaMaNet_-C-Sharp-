@@ -1,0 +1,8 @@
+C:\GitHub\RaMaNet_-C-Sharp-\OnlineGameServer_Module(C#)\Server_Network_Module\GameServer_Module\CSampleClient\bin\Debug\CSampleClient.exe.config
+C:\GitHub\RaMaNet_-C-Sharp-\OnlineGameServer_Module(C#)\Server_Network_Module\GameServer_Module\CSampleClient\bin\Debug\CSampleClient.exe
+C:\GitHub\RaMaNet_-C-Sharp-\OnlineGameServer_Module(C#)\Server_Network_Module\GameServer_Module\CSampleClient\bin\Debug\CSampleClient.pdb
+C:\GitHub\RaMaNet_-C-Sharp-\OnlineGameServer_Module(C#)\Server_Network_Module\GameServer_Module\CSampleClient\bin\Debug\GameServer_Module.dll
+C:\GitHub\RaMaNet_-C-Sharp-\OnlineGameServer_Module(C#)\Server_Network_Module\GameServer_Module\CSampleClient\bin\Debug\GameServer_Module.pdb
+C:\GitHub\RaMaNet_-C-Sharp-\OnlineGameServer_Module(C#)\Server_Network_Module\GameServer_Module\CSampleClient\obj\Debug\CSampleClient.csprojResolveAssemblyReference.cache
+C:\GitHub\RaMaNet_-C-Sharp-\OnlineGameServer_Module(C#)\Server_Network_Module\GameServer_Module\CSampleClient\obj\Debug\CSampleClient.exe
+C:\GitHub\RaMaNet_-C-Sharp-\OnlineGameServer_Module(C#)\Server_Network_Module\GameServer_Module\CSampleClient\obj\Debug\CSampleClient.pdb

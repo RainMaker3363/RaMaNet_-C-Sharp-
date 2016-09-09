@@ -9,7 +9,7 @@ namespace GameServer_Module
 {
     // EndPoint정보를 받아서 서버에 접속한다.
     // 접속하려는 서버 하나당 인스턴스 한개씩 생성하여 사용하면 된다.
-    class CConnector
+    public class CConnector
     {
         public delegate void ConnectedHandler(CUserToken token);
         public ConnectedHandler connected_callback { get; set; }

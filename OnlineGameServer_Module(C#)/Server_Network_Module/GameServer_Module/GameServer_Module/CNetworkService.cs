@@ -112,9 +112,9 @@ namespace GameServer_Module
         {
             Interlocked.Increment(ref this.connected_count);
 
-            Console.WriteLine(string.Format("[{0}] A client connected. handle {1}, count {2}"),
+            Console.WriteLine(string.Format("[{0}] A client connected. handle {1},  count {2}",
                 Thread.CurrentThread.ManagedThreadId, client_socket.Handle,
-                this.connected_count);
+                this.connected_count));
 
             // 풀에서 하나 꺼내와 사용한다.
             SocketAsyncEventArgs receive_args = this.receive_event_args_pool.Pop();

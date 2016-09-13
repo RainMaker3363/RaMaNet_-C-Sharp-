@@ -3,3 +3,8 @@ C:\GitHub\RaMaNet_-C-Sharp-\OnlineGameServer_Module(C#)\Server_Network_Module\Ga
 C:\GitHub\RaMaNet_-C-Sharp-\OnlineGameServer_Module(C#)\Server_Network_Module\GameServer_Module\GameServer_Module\obj\Debug\GameServer_Module.csprojResolveAssemblyReference.cache
 C:\GitHub\RaMaNet_-C-Sharp-\OnlineGameServer_Module(C#)\Server_Network_Module\GameServer_Module\GameServer_Module\obj\Debug\GameServer_Module.dll
 C:\GitHub\RaMaNet_-C-Sharp-\OnlineGameServer_Module(C#)\Server_Network_Module\GameServer_Module\GameServer_Module\obj\Debug\GameServer_Module.pdb
+D:\Github\RaMaNet_-C-Sharp-\OnlineGameServer_Module(C#)\Server_Network_Module\GameServer_Module\GameServer_Module\bin\Debug\GameServer_Module.dll
+D:\Github\RaMaNet_-C-Sharp-\OnlineGameServer_Module(C#)\Server_Network_Module\GameServer_Module\GameServer_Module\bin\Debug\GameServer_Module.pdb
+D:\Github\RaMaNet_-C-Sharp-\OnlineGameServer_Module(C#)\Server_Network_Module\GameServer_Module\GameServer_Module\obj\Debug\GameServer_Module.csprojResolveAssemblyReference.cache
+D:\Github\RaMaNet_-C-Sharp-\OnlineGameServer_Module(C#)\Server_Network_Module\GameServer_Module\GameServer_Module\obj\Debug\GameServer_Module.dll
+D:\Github\RaMaNet_-C-Sharp-\OnlineGameServer_Module(C#)\Server_Network_Module\GameServer_Module\GameServer_Module\obj\Debug\GameServer_Module.pdb

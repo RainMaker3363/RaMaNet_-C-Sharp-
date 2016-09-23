@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Echo/Echo.unity
+  isLoaded: 1
+  isActive: 1

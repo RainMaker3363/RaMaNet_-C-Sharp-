@@ -29,7 +29,7 @@ namespace CSampleServer
             // 맨 마지막인 backlog값은 accept 처리 도중 대기시킬 연결 개수를 의미한다.
             service.listen("0.0.0.0", 7979, 100);
 
-            Console.WriteLine("Started!");
+            Console.WriteLine("Welcome To RaMaNet!");
 
             while(true)
             {
